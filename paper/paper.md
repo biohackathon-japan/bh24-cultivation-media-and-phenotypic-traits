@@ -19,11 +19,12 @@ authors:
   - name: Yoko Okabeppu
     affiliation: 2
   - name: Natsuko Ichikawa
+    orcid: 0009-0005-5693-718X
     affiliation: 2
 affiliations:
-  - name: Leibniz Institute DSMZ-German Collection of Microorganisms and Cell Cultures
+  - name: Leibniz Institute DSMZ-German Collection of Microorganisms and Cell Cultures, Germany
     index: 1
-  - name: NITE
+  - name: Biological Resource Center, National Institute of Technology and Evaluation (NITE), Japan
     index: 2
 date: 25 August 2024
 cito-bibliography: paper.bib
