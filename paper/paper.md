@@ -9,23 +9,32 @@ authors:
   - name: Julia Koblitz
     orcid: 0000-0002-7260-2129
     affiliation: 1
-  - name: Shuichi Kawashima
-    orcid: 0000-0000-0000-0000
-    affiliation: 2
-  - name: Risa Otsuka
-    affiliation: 2
   - name: Kohei Hidaka
     affiliation: 2
-  - name: Yoko Okabeppu
-    affiliation: 2
+    orcid: 0000-0002-3883-2246
   - name: Natsuko Ichikawa
+    affiliation: 2
     orcid: 0009-0005-5693-718X
+  - name: Shuichi Kawashima
+    affiliation: 3
+    orcid: 0000-0001-7883-3756
+  - name: Yoko Okabeppu
+    affiliation: 4
+  - name: Satoshi Onoda
+    affiliation: 5
+  - name: Risa Otsuka
     affiliation: 2
 affiliations:
-  - name: Leibniz Institute DSMZ-German Collection of Microorganisms and Cell Cultures, Germany
+  - name: Leibniz Institute DSMZ-German Collection of Microorganisms and Cell Cultures
     index: 1
-  - name: Biological Resource Center, National Institute of Technology and Evaluation (NITE), Japan
+  - name: Biological Resource Center, National Institute of Technology and Evaluation (NBRC)
     index: 2
+  - name: Database Center for Life Science, Joint Support-Center for Data Science Research, Research Organization of Information and Systems
+    index: 3
+  - name: OKBP Inc.
+    index: 4
+  - name: YOHAK LLC.
+    index: 5
 date: 25 August 2024
 cito-bibliography: paper.bib
 event: BH24
