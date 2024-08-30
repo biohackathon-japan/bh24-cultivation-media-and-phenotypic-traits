@@ -121,15 +121,9 @@ Overall, this process not only facilitates the standardized recording and sharin
 ![Proposed cultivation media deposition process](HERE ADD THE IMAGE)
 
 
---- 
+# Conclusions
 
-# Other main section on your manuscript level 1
-
-Lists can be added with:
-
-1. Item 1
-2. Item 2
-
+<?--
 # Citation Typing Ontology annotation
 
 You can use [CiTO](http://purl.org/spar/cito/2018-02-12) annotations, as explained in [this BioHackathon Europe 2021 write up](https://raw.githubusercontent.com/biohackrxiv/bhxiv-metadata/main/doc/elixir_biohackathon2021/paper.md) and [this CiTO Pilot](https://www.biomedcentral.com/collections/cito).
@@ -163,16 +157,4 @@ Possible CiTO typing annotation include:
 * updates
 * citation: generic citation
 
-
-# Results
-
-
-# Discussion
-
-...
-
-## Acknowledgements
-
-...
-
-## References
+-->
