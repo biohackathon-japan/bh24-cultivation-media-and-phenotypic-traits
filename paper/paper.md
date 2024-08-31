@@ -1,5 +1,5 @@
 ---
-title: 'BioHackJP24 report: Expanding data on cultivation media and microbial traits'
+title: 'Expanding data on cultivation media and microbial traits'
 title_short: 'BioHackJP24: Microbial data'
 tags:
   - Microorganisms
@@ -41,7 +41,7 @@ event: BH24
 biohackathon_name: "BioHackathon Japan 2024"
 biohackathon_url:   "[https://biohackathon-europe.org/](https://2024.biohackathon.org/)"
 biohackathon_location: "Fukushima, Japan, 2024"
-group: Project Microbes
+group: Project R2
 # URL to project git repo --- should contain the actual paper.md:
 git_url: https://github.com/biohackathon-japan/bh24-cultivation-media-and-phenotypic-traits
 # This is the short authors description that is used at the
