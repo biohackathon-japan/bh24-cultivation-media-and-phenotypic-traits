@@ -126,9 +126,10 @@ Lastly, once a new cultivation medium is registered, the data will be shared bet
 
 Overall, this process not only facilitates the standardized recording and sharing of media recipes but also strengthens the integration between media databases and biological resource centers, promoting consistency and reproducibility in microbiological research.
 
-![Proposed cultivation media deposition process](Fig_1_Mediadive_deposit_schema.png)
-
 
 # Conclusions
 
 This study has made significant efforts in enhancing the integration and standardization of cultivation media data, paving the way for more robust AI-based predictions and broader data interoperability. By aligning terminologies and mapping ingredients between Media*Dive* and TogoMedium, expanding the Growth Media Ontology, and developing a comprehensive Bac*Dive* RDF knowledge graph, we have established a strong foundation for future microbial research. Additionally, the proposed medium registration process ensures that media recipes are consistently recorded, better standardized and easily cited, further promoting transparency and reproducibility in the field. These efforts collectively contribute to the advancement of microbial data science and set the stage for continued innovation and collaboration.
+
+![Proposed cultivation media deposition process](Fig_1_Mediadive_deposit_schema.png)
+
