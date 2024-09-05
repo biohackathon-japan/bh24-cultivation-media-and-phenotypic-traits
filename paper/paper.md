@@ -15,15 +15,15 @@ authors:
   - name: Kohei Hidaka
     affiliation: 3
     orcid: 0000-0002-3883-2246
-  - name: Natsuko Ichikawa
-    affiliation: 3
-    orcid: 0009-0005-5693-718X
   - name: Yoko Okabeppu
     affiliation: 4
   - name: Satoshi Onoda
     affiliation: 5
   - name: Risa Otsuka
     affiliation: 3
+  - name: Natsuko Ichikawa
+    affiliation: 3
+    orcid: 0009-0005-5693-718X
 affiliations:
   - name: Leibniz Institute DSMZ-German Collection of Microorganisms and Cell Cultures
     index: 1
